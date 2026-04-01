@@ -3,7 +3,7 @@ node_modules/
 
 # Logs
 *.log
-subagent.log
+!example.subagent.log
 
 # OS
 .DS_Store
